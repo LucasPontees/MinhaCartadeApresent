@@ -81,6 +81,7 @@ body{
 }
 .home-text{
     max-width: 37rem;
+    flex-direction: column;
 }
 .home-text .text-h4{
     font-size: 1.5rem;
@@ -103,6 +104,7 @@ body{
     font-weight: 700;
     transition: all 0.5s;
 }
+
 .home-btn:hover{
     background: black;
 }
